@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Spartin996
 - 👀 I’m interested in learning to Program
 - 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on knowledge base software
 - 📫 How to reach me ...
 
 <!---
