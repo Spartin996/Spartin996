@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spartin996
-- 👀 I’m interested in learning to Program
-- 🌱 I’m currently learning php
-- 📫 How to reach me ...
+- 👀 I’m interested in learning to Program with the goal of becoming a fullstack Devolper
+- 🌱 I’m currently learning php css and html
+- 📫 You can reach me via smoke signals, Praying to the IT gods and my direct messages.
 
 <!---
 Spartin996/Spartin996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
