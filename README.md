@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Spartin996
-- 👀 I’m interested in learning to program with the goal of becoming a full stack devolper.
-- 🌱 I’m currently learning php, css, JS and html.
+- 🌱 I’m currently coding in php, css, JS and html.
 - 📫 You can reach me via my direct messages.
 
 <!---
